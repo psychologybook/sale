@@ -22,7 +22,9 @@
     },
     "versionFirst": "3.11.1",
     "uniqCompNum": 1,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.11.1",
+    "favicon": "@PROJECT_PATH@/assets/images/fb-img-1488840944185-128x232.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
